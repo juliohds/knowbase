@@ -1,0 +1,5 @@
+#redis
+docker run --name redisBarber -p 6379:6379 -d -t redis:alpine
+
+#mongo
+docker run --name mongobarber -p 27017:27017 -d -t mongo
