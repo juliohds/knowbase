@@ -1,0 +1,2 @@
+# finaliza de vez programa
+sudo launchctl remove com.mcafee.agent.macmn
