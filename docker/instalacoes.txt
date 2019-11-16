@@ -3,3 +3,6 @@ docker run --name redisBarber -p 6379:6379 -d -t redis:alpine
 
 #mongo
 docker run --name mongobarber -p 27017:27017 -d -t mongo
+
+#postgree
+docker run --name postgreebarber -p 5432:5432 -e POSTGRES_PASSWORD=123456 -d postgres
