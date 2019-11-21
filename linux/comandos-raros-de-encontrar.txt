@@ -1,2 +1,5 @@
 # finaliza de vez programa
 sudo launchctl remove com.mcafee.agent.macmn
+
+# abrir a pasta atual pelo terminal (linux ubuntu)
+nautilus .
