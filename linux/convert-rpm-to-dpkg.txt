@@ -1,0 +1,13 @@
+
+like a name of file say.
+
+convert pack rpm to dpkg
+
+apt-get install alien dpkg-dev debhelper build-essential
+
+alien packagen.rpm
+
+dpkg -i package.deb
+
+for more info, use:
+alien -h
