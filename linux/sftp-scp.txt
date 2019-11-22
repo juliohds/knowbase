@@ -1,0 +1,11 @@
+
+example connect sftp ubuntu
+open files
+control + l
+sftp://analise@web1.superbid.net/sites/superbid.com.co/home
+enter password
+
+scp
+
+-p = port and /directory/actual to new/directory
+scp -P 8222 home-narvaezbid.com.ar.war jboss@preapi.s4bdigital.net:/opt/jboss/server/all1/farm/
