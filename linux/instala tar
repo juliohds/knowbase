@@ -1,0 +1,9 @@
+
+cria a pasta em:
+
+/usr/local/bin/
+
+mova o arquivo para a pasta criada e rode 
+
+
+sudo tar -xvzf nome-arquivo
