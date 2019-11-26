@@ -5,5 +5,4 @@ cria a pasta em:
 
 mova o arquivo para a pasta criada e rode 
 
-
 sudo tar -xvzf nome-arquivo

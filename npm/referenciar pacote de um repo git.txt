@@ -1,0 +1,7 @@
+
+
+coloque esse item no seu package
+    "me-package": "git+ssh://git@gitlab.com/me-package/me-package/me-package.git",
+
+precisa ter uma chave ssh gerada e adicionada no repo, caso nao seja publico
+
