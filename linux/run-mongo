@@ -1,0 +1,2 @@
+mongod start server mongod
+mongo start database in terminal
