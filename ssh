@@ -1,0 +1,6 @@
+# to login 
+ssh -T git@(any providers ex: gitlab.com or github.com, bitBucket.org)
+
+#to add new key
+eval `ssh-agent -s`
+ssh-add id_gitlab_key
